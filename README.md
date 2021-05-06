@@ -1,0 +1,2 @@
+# WorldCoin
+A new cryptocurrency
